@@ -17,7 +17,7 @@ This site is a collection of solution to common problems related to installation
 
 ### Licensing
 
-[Failover feature 'XXX' specified in license preferences is not available (PPE license)](pages/aedt/licensing/Failover feature (PPE license).md)
+[Failover feature 'XXX' specified in license preferences is not available - PPE license](pages/aedt/licensing/failover_feature_ppe.md)
 
 [Enable/disable PPE license via registry (for admins)](pages/aedt/licensing/Enabledisable PPE via registry.md)
 
