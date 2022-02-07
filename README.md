@@ -23,7 +23,7 @@ This site is a collection of solution to common problems related to installation
 
 [Failed to check out license (HFSS, Maxwell, Simplorer, etc) when starting Electronics Desktop](pages/aedt/licensing/Failed%20license%20start%20aedt.md)
 
-[Could not connect to license server: 24110@\<server name\>. System error: 0](pages/aedt/licensing/loopback_ACL.md)
+[Could not connect to license server: 24110@server-name. System error: 0](pages/aedt/licensing/loopback_ACL.md)
 
 ### Debugging
 
