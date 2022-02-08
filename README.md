@@ -27,11 +27,11 @@ This site is a collection of solution to common problems related to installation
 
 ### Debugging
 
-[Interactive debugging](pages/aedt/debugging/Interactive%20debug.md)
+[Interactive debugging](pages/aedt/debugging/Interactive_debug.md)
 
-[Debug with startup script](pages/aedt/debugging/startup%20script%20debug.md)
+[Debug with startup script](pages/aedt/debugging/startup_script_debug.md)
 
-[Debug submitted job](pages/aedt/debugging/submit%20debug.md)
+[Debug submitted job](pages/aedt/debugging/submit_debug.md)
 
 ## Workbench Products
 
