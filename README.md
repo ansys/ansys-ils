@@ -19,7 +19,7 @@ This site is a collection of solution to common problems related to installation
 
 [Failover feature 'XXX' specified in license preferences is not available - PPE license](pages/aedt/licensing/failover_feature_ppe.md)
 
-[Enable/disable PPE license via registry (for admins)](pages/aedt/licensing/Enabledisable%20PPE%20via%20registry.md)
+[Enable/disable PPE license via registry (for admins)](pages/aedt/licensing/enable_disable_ppe_via_registry.md)
 
 [Failed to check out license (HFSS, Maxwell, Simplorer, etc) when starting Electronics Desktop](pages/aedt/licensing/Failed%20license%20start%20aedt.md)
 
@@ -27,11 +27,11 @@ This site is a collection of solution to common problems related to installation
 
 ### Debugging
 
-[Interactive debugging](pages/aedt/debugging/Interactive%20debug.md)
+[Interactive debugging](pages/aedt/debugging/interactive_debug.md)
 
-[Debug with startup script](pages/aedt/debugging/startup%20script%20debug.md)
+[Debug with startup script](pages/aedt/debugging/startup_script_debug.md)
 
-[Debug submitted job](pages/aedt/debugging/submit%20debug.md)
+[Debug submitted job](pages/aedt/debugging/submit_debug.md)
 
 ## Workbench Products
 
