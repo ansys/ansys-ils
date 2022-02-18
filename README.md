@@ -21,7 +21,7 @@ This site is a collection of solution to common problems related to installation
 
 [Enable/disable PPE license via registry (for admins)](pages/aedt/licensing/enable_disable_ppe_via_registry.md)
 
-[Failed to check out license (HFSS, Maxwell, Simplorer, etc) when starting Electronics Desktop](pages/aedt/licensing/Failed%20license%20start%20aedt.md)
+[Failed to check out license (HFSS, Maxwell, Simplorer, etc) when starting Electronics Desktop](pages/aedt/licensing/failed_license_start_aedt.md)
 
 [Could not connect to license server: 24110@server-name. System error: 0](pages/aedt/licensing/loopback_ACL.md)
 
